@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <string name="first_title"> Orange Cloud </string>
+    <string name="first_artist"> Cristiano </string>
+    <string name="first_year"> 2004 </string>
+
+    <string name="second_title"> Sad Blue </string>
+    <string name="second_artist"> Lionel </string>
+    <string name="second_year"> 1999 </string>
+
+    <string name="third_title"> Sunny Flower </string>
+    <string name="third_artist"> Zlatan </string>
+    <string name="third_year"> 2001 </string>
+</resources>

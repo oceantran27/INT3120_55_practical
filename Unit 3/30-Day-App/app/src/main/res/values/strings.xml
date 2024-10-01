@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">14 Days of Programming</string>
+
+    <string name="day1_title">Introduction to Programming</string>
+    <string name="day2_title">Setting Up Your Environment</string>
+    <string name="day3_title">Understanding Variables and Data Types</string>
+    <string name="day4_title">Control Flow and Conditionals</string>
+    <string name="day5_title">Functions and Procedures</string>
+    <string name="day6_title">Debugging and Error Handling</string>
+    <string name="day7_title">Introduction to Object-Oriented Programming</string>
+    <string name="day8_title">Working with Arrays and Lists</string>
+    <string name="day9_title">Loops and Iteration</string>
+    <string name="day10_title">Exploring Libraries and APIs</string>
+    <string name="day11_title">File Handling</string>
+    <string name="day12_title">Introduction to Databases</string>
+    <string name="day13_title">Building Your First Project</string>
+    <string name="day14_title">Next Steps in Programming</string>
+
+    <string name="day1_description">Learn the basics of what programming is and why it’s essential in today’s world.</string>
+    <string name="day2_description">Get your computer ready with the right tools and IDE for coding.</string>
+    <string name="day3_description">Discover how to store and manipulate data using variables.</string>
+    <string name="day4_description">Learn how to make decisions in code using if statements and loops.</string>
+    <string name="day5_description">Master the basics of functions to organize your code better.</string>
+    <string name="day6_description">Learn how to identify and fix errors in your programs efficiently.</string>
+    <string name="day7_description">Understand the concept of objects and classes in programming.</string>
+    <string name="day8_description">Learn how to store multiple pieces of data in arrays or lists.</string>
+    <string name="day9_description">Explore how to repeat actions efficiently using loops like for and while.</string>
+    <string name="day10_description">Discover how to use pre-built code and APIs to add functionality to your programs.</string>
+    <string name="day11_description">Learn how to read and write files in your program.</string>
+    <string name="day12_description">Understand how databases store and retrieve data for your applications.</string>
+    <string name="day13_description">Apply everything you’ve learned by creating a small project.</string>
+    <string name="day14_description">Get tips on what to learn next and how to continue your programming journey.</string>
+</resources>
